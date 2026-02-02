@@ -1,0 +1,5 @@
+text,label,clean_text,processed_text,label_encoded
+I love Natural Language Processing!,positive,i love natural language processing,love natural language processing,1
+NLP is used in chatbots and search engines.,positive,nlp is used in chatbots and search engines,nlp used chatbots search engine,1
+Text cleaning is an important step in NLP.,neutral,text cleaning is an important step in nlp,text cleaning important step nlp,0
+Machine learning models need clean data.,neutral,machine learning models need clean data,machine learning model need clean data,0
